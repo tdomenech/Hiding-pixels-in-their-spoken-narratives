@@ -1,8 +1,17 @@
-## Welcome to GitHub Pages
+## Hidding Pixels in their Spoken Narratives
 
-You can use the [editor on GitHub](https://github.com/tdomenech/Hiding-pixels-in-their-spoken-narratives/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+//descripció: posar mini explicació de stegonography + deep i desp´res explicar en que es basa el projecte
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Posar exemples best approach amb imatges i audio
+
+### Comparació de betas 
+
+### Noise robustness
+
+### Permute examples
+
+
 
 ### Markdown
 
