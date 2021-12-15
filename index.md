@@ -2,6 +2,9 @@
 
 //descripció: posar mini explicació de stegonography + deep i desp´res explicar en que es basa el projecte
 
+### exemples imatges i audios de loc narratices i coco
+
+### Comparació fourier / cosine
 
 ### Posar exemples best approach amb imatges i audio
 
